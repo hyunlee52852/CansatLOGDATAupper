@@ -1,0 +1,4 @@
+[2023-08-21 18:57:27.741] Log file generated
+[2023-08-21 18:57:51.110] client connected
+[2023-08-21 18:58:14.301] client disconnected
+[2023-08-21 18:58:58.686] client connected
